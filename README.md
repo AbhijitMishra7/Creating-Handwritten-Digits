@@ -1,5 +1,5 @@
 # Creating-Handwritten-Digits
-Creating handwritten digits using mnist dataset(WGAN-GP)
+I created handwritten digits using mnist dataset. I used a generative adversarial network with Wasserstein loss and gradient penalty to create new handwritten digits with high diversity and fidelity.
 
 Resultant Images:
 
